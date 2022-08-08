@@ -4,7 +4,7 @@ Introduction to Computer Vision and Image Processing (IBM) - Final project
 
 Run the following commands in your terminal to run notebooks:
 
-git clone https://github.com/sinisabubonja/Coursera-final-project-build-a-regression-model-in-keras.git](https://github.com/sinisabubonja/coursera-final-project-stop-sign-classifier.git \
+git clone https://github.com/sinisabubonja/coursera-final-project-stop-sign-classifier.git \
 python3 -m venv final\
 cd final\
 source bin/activate\
