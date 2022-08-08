@@ -2,7 +2,7 @@
 
 Introduction to Computer Vision and Image Processing (IBM) - Final project
 
-Run the following commands in your terminal to run notebooks (notebooks \*_cv_studio\*.ipynb cannot be run):
+Run the following commands in your terminal to run notebooks (notebooks *\*_cv_studio\*.ipynb* cannot be run):
 
 git clone https://github.com/sinisabubonja/coursera-final-project-stop-sign-classifier.git \
 python3 -m venv final\
